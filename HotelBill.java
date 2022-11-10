@@ -1,3 +1,6 @@
+/*here you have to select the tiffin and how many plates you want.
+and then just follow the istructions. and this programs will give you the total bill*/
+
 import java.util.Scanner;
 class HotelBill 
 {
