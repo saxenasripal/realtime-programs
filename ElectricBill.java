@@ -1,4 +1,9 @@
-/*Telangana electricity slab or tariff rates
+/*
+ here you have to give the previous reading and the present reading 
+the program will calculate the bill based on the below slabs.
+
+
+Telangana electricity slab or tariff rates
 
 1. Category 1(between - 0to 100)
 0-50 Units - ?1.45 consumer charges 
