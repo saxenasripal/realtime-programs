@@ -1,3 +1,13 @@
+/*this Program is usefull for gully criket.
+here you have to give the number of overs and how many of you are playing in the each team
+and on every ball you have to select what happend according to the options.
+if the overs completed or all the players in the match are out then the first the match will complete.
+it shows what is the score and how many foures and sixes in the match at the last time and when the overs are completed.
+for every ball it shows the score and wickets.*/
+
+
+
+
 import java.util.*;
 class CricketScore 
 {
