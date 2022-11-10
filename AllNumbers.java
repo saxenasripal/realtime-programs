@@ -1,3 +1,7 @@
+/*This is the basic program were you have to give an input number.
+and you can select the option like palindrome or perfectnumber etc.
+it shows wether the given number is that number or not*/
+
 import java.util.Scanner;
 class AllNumbers
 {
